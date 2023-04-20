@@ -1,0 +1,17 @@
+gradio @ https://gradio-builds.s3.amazonaws.com/reset-iterator/attempt-01/gradio-3.24.1-py3-none-any.whl
+mdtex2html
+pypinyin
+tiktoken
+socksio
+tqdm
+colorama
+duckduckgo_search
+Pygments
+llama_index
+langchain
+markdown
+markdown2
+torch
+git+https://github.com/huggingface/peft.git
+git+https://github.com/huggingface/transformers.git
+SentencePiece
